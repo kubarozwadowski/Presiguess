@@ -1,0 +1,49 @@
+from pydantic import BaseModel
+
+class President(BaseModel):
+    name: str
+    party: str
+    birth_state: str
+    death_state: str
+    education: str
+    served_ww : bool
+    owned_dog: bool
+    faced_impeachment: bool
+    was_assassinated: bool
+    former_general: bool
+    died_in_office: bool
+    former_vice_president: bool
+    served_2more_terms: bool
+    faced_economic_crisis: bool
+    served_cold_war: bool
+    served_military: bool
+    served_during_revolution: bool
+    notable_foreign_policy: bool
+    served_amidst_infrastructure: bool
+    known_environmental_conservation: bool
+    involved_land_acquisition: bool
+    first_lady_name_elizabeth: bool
+    above_6_feet: bool
+    served_ambassador: bool
+    pilot_certificate: bool
+    lawyer_previously: bool
+    governor_previously: bool
+    senator_previously: bool
+    autobiography: bool
+    medal_honor: int
+    sons: int
+    daughters: int 
+    siblings: int
+    marriages: int
+    appointed_judges: int
+    number_served_ambassador: int
+    age_inauguration: int
+    military_awards: int
+    founded_companies: int
+    height: int
+    weight: int 
+    years_in_office: int
+    death_age: int 
+    executive_orders: int
+    vetoes: int
+    pardons: int
