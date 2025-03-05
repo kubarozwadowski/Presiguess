@@ -1,6 +1,7 @@
 # Presiguess
 
 [Presiguess] is an interactive game inspired by GeoGrid (https://www.geogridgame.com/) to create a unique and fun way to increase your knowledge of US presidents!
+[Here](https://youtu.be/2b9uoQVySnY) is a brief demo of the project. 
 
 ## Tech Stack
 
